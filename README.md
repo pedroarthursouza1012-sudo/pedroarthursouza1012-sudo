@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/6e85c5bb-37ac-49b7-a846-06430ee90e37
+
 # Olá 👋, eu sou Pedro Arthur
 
 💻 **Estudante de Informática | Desenvolvimento Web & Desenvolvimento de Software**  
