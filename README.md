@@ -29,7 +29,6 @@ Atualmente, estou focado em aprimorar minhas habilidades em **JavaScript, Python
 ## 🧠 O que faço
 
 - 💻 Desenvolvimento Web
-- 🎮 Desenvolvimento de jogos
 - 🐍 Programação em Python
 - ⚡ Desenvolvimento com JavaScript
 - 🌐 HTML & CSS
@@ -105,8 +104,6 @@ O projeto combina:
 ## 📚 Aprendendo atualmente
 
 - 🌐 Desenvolvimento Back-end
-- 🐘 PHP
-- 🗄️ PostgreSQL
 - 🔄 APIs & Fetch
 - 🎮 Desenvolvimento de jogos com JavaScript
 - 🌿 Fluxos de trabalho com Git & GitHub
