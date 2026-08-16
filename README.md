@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/6e85c5bb-37ac-49b7-a846-06430ee90e37
+<img width="1240" height="400" alt="Image" src="https://github.com/user-attachments/assets/c22376e5-ca7a-4424-9de4-ea927e28bdba" />
 
 # Olá 👋, eu sou Pedro Arthur
 
